@@ -2,7 +2,7 @@
 
 An end-to-end Excel project analyzing retail sales data to uncover regional performance gaps, profitability drivers, and category-level trends — built entirely in Excel (no external BI tool).
 
-![Dashboard Preview]("C:\Users\user\Desktop\excel-retail-performance-dashboard\dashboard_screenshot.png")
+<img width="921" height="456" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/e3daf6c7-3da2-48f3-99d9-6397391d3fad" />
 
 ## Problem Statement
 
